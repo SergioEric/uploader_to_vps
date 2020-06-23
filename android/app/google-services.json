@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "759672405433",
+    "firebase_url": "https://testing-backendless-34262.firebaseio.com",
+    "project_id": "testing-backendless-34262",
+    "storage_bucket": "testing-backendless-34262.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759672405433:android:73051f0c2a402864bdca68",
+        "android_client_info": {
+          "package_name": "com.uploaderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759672405433-l8tb9vajhktab47160j4ed45ufn588bl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uploaderapp",
+            "certificate_hash": "528697d4df8df41c2b9801a322cab2734b0020fc"
+          }
+        },
+        {
+          "client_id": "759672405433-afblb7523ejah3acvt8ppbbesfekpuf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj6ev1JEF0etTaNKEXYG84Tn8lBXnS9DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759672405433-afblb7523ejah3acvt8ppbbesfekpuf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
